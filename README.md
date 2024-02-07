@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
   <div>
     <a href="#">
       <img alt="My skill icons"
-           src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,kotlin,html,css,nodejs,electron,express,md,regex,bash,git,vim,vscode,mongodb" />
+           src="https://skillicons.dev/icons?i=js,ts,c,cpp,py,kotlin,html,css,nodejs,electron,react,express,md,regex,bash,git,vim,vscode,mongodb" />
     </a>
   </div>
 </div>
