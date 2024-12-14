@@ -8,4 +8,4 @@ Welcome to my GitHub profile!
 - 💻 **Technologies:** AWS, ReactJS, ElectronJS, PostgreSQL
 - 💻 **Languages:** JavaScript, TypeScript, C++, Golang, and Java
 - 🎓 **Education:** Computer Science at HCMUT (Ho Chi Minh City University of Technology)
-- 💬 **Let's Chat:** Connect with me on [Telegram](https://t.me/caoviethuy123)
+- 💬 **Let's Chat:** Connect with me on [Linkedln](https://www.linkedin.com/in/cao-vi%E1%BA%BFt-huy-0a29bb20a/)
