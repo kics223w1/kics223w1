@@ -1,10 +1,38 @@
-### Hi Recruiters and Fellow Developers 👋
+### Hi Recruiters and Fellow Developers 👋  
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!  
 
-- 📖 **Currently:** Software Engineer at [Proxyman](https://proxyman.io/) (July 2022 - Present)
-- 📺 **Experience:** Contributed extensively to [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux), with over **300 pull requests** ([check them out here](https://github.com/ProxymanApp/proxyman-windows-linux/issues?q=is%3Aopen+is%3Aissue+assignee%3Akics223w1+label%3A%22%E2%9C%85+Done%22))
-- 💻 **Technologies:** AWS, ReactJS, ElectronJS, PostgreSQL
-- 💻 **Languages:** JavaScript, TypeScript, C++, Golang, and Java
-- 🎓 **Education:** Computer Science at HCMUT (Ho Chi Minh City University of Technology)
-- 💬 **Let's Chat:** Connect with me on [Linkedln](https://www.linkedin.com/in/cao-vi%E1%BA%BFt-huy-0a29bb20a/)
+---
+
+### 🚀 About Me  
+- 📖 **Job:** Software Engineer at [Proxyman](https://proxyman.io/) (July 2022 - Present)  
+- 📌 **Currently:**  
+  - Building [Get API](https://github.com/Get-API-App/Issue-Tracker), a native macOS application  
+  - Maintaining [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux)  
+
+---
+
+### 🏆 Experience  
+- Contributed extensively to [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux)  
+- **300+ pull requests** merged  
+- Check them out 👉 [Pull Requests](https://github.com/ProxymanApp/proxyman-windows-linux/issues?q=is%3Aopen+is%3Aissue+assignee%3Akics223w1+label%3A%22%E2%9C%85+Done%22)  
+
+---
+
+### 🛠 Work flow  
+ - Use Cursor, ChatGPT, Claude, and Grok to do my work—just pure AI now 🤖  
+
+---
+
+### 🎓 Education  
+- **Ho Chi Minh City University of Technology (HCMUT)**  
+- **Major:** Computer Science  
+
+---
+
+### 📬 Let's Connect  
+- 💬 Chat with me on [LinkedIn](https://www.linkedin.com/in/cao-vi%E1%BA%BFt-huy-0a29bb20a/)  
+
+---
+
+🚀 _Keep building, keep learning!_  
