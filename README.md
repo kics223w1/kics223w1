@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 📬 Let's Connect  
-- 💬 Chat with me on [LinkedIn](https://www.linkedin.com/in/cao-vi%E1%BA%BFt-huy-0a29bb20a/)  
+- 💬 Chat with me on [LinkedIn](https://www.linkedin.com/in/huy-cao-0a29bb20a/)  
 
 ---
 
