@@ -13,8 +13,9 @@ Welcome to my GitHub profile!
 ---
 
 ### 🏆 Experience  
+- Currently, working on [Get API](https://github.com/Get-API-App/Issue-Tracker), a native macOS application  
 - Contributed extensively to [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux)  
-- **300+ pull requests** merged  
+- **350+ pull requests** merged  
 - Check them out 👉 [Pull Requests](https://github.com/ProxymanApp/proxyman-windows-linux/issues?q=is%3Aopen+is%3Aissue+assignee%3Akics223w1+label%3A%22%E2%9C%85+Done%22)  
 
 ---
