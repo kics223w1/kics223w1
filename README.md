@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 🛠 Work flow  
- - Use Cursor, ChatGPT, Claude, and Grok to do my work—just pure AI now 🤖  
+ - Use Cursor and LLM to do my work, just pure AI now 🤖  
 
 ---
 
