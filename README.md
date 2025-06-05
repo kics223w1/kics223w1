@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 📖 **Job:** Software Engineer at [Proxyman](https://proxyman.io/) (July 2022 - Present)  
 - 📌 **Currently:**  
   - Building [Get API](https://github.com/Get-API-App/Issue-Tracker), a native macOS application  
-  - Maintaining [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux)  
+  - Built [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux) from the ground up and went through over 50 versions.
 
 ---
 
