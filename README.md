@@ -4,24 +4,19 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🚀 About Me  
-- 📖 **Job:** Software Engineer at [Proxyman](https://proxyman.io/) (July 2022 - Present)  
-- 📌 **Currently:**  
-  - Building [Get API](https://github.com/Get-API-App/Issue-Tracker), a native macOS application  
-  - Built [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux) from the ground up and went through over 50 versions.
+### 📖  Job  
+- Software Engineer at [Proxyman](https://proxyman.io/) (July 2022 - Present)  
 
----
+### 🏆 Experience
 
-### 🏆 Experience  
-- Currently, working on [Get API](https://github.com/Get-API-App/Issue-Tracker), a native macOS application  
-- Contributed extensively to [Proxyman Windows-Linux](https://github.com/ProxymanApp/proxyman-windows-linux)  
-- **500+ pull requests** merged in Proxyman Windows and Get API
-- Check them out 👉 [Pull Requests](https://github.com/ProxymanApp/proxyman-windows-linux/issues?q=is%3Aopen+is%3Aissue+assignee%3Akics223w1+label%3A%22%E2%9C%85+Done%22)  
+- Contributed to all three core Proxyman products: [Proxyman](https://github.com/ProxymanApp/Proxyman), [GetAPI](https://github.com/Get-API-App/Issue-Tracker), and [TinyShield](https://tinyshield.proxyman.com/).
+- Built Proxyman Windows from the ground up, delivering over [50 releases](https://github.com/ProxymanApp/proxyman-windows-linux), and now usually maintain the project by fixing bugs based on customer feedback.
+- Currently working on GetAPI and TinyShield:
+  - **GetAPI**: A native macOS app designed to replace bloated API tools like Postman.
+  - **TinyShield**: A modern macOS app that gives you complete control over your Mac’s network connections.
+- Contributed over 550 pull requests across these projects.
+- Tech stack: Electron & SwiftUI.
 
----
-
-### 🛠 Work flow  
- - Use Cursor and LLM to do my work, just pure AI now 🤖  
 
 ---
 
