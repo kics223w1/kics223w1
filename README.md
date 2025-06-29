@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ---
 
 ### 📖  Job  
-- Software Engineer at [Proxyman](https://proxyman.io/) (July 2022 - Present)  
+- Software Engineer at [Proxyman](https://proxyman.io/) for over 3 years (July 2022 - Present)  
 
 ### 🏆 Experience
 
