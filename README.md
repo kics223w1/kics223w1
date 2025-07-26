@@ -27,7 +27,8 @@ Welcome to my GitHub profile!
 ---
 
 ### 📬 Let's Connect  
-- 💬 Chat with me on [LinkedIn](https://www.linkedin.com/in/huy-cao-0a29bb20a/)  
+- 💬 My Telegram: @huyhuy1231812
+- 💬 My [LinkedIn](https://www.linkedin.com/in/huy-cao-0a29bb20a/)  
 
 ---
 
