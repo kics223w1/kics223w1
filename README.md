@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 ### 🏆 Experience
 
 - Contributed to all three core Proxyman products: [Proxyman](https://github.com/ProxymanApp/Proxyman), [GetAPI](https://github.com/Get-API-App/Issue-Tracker), and [TinyShield](https://tinyshield.proxyman.com/).
-- Built Proxyman Windows from the ground up, delivering over [57 releases](https://github.com/ProxymanApp/proxyman-windows-linux), and now usually maintain the project by fixing bugs based on customer feedback.
+- Built Proxyman Windows from the ground up, delivering over [58 releases](https://github.com/ProxymanApp/proxyman-windows-linux), and now usually maintain the project by fixing bugs based on customer feedback.
 - Currently working on GetAPI and TinyShield:
   - **GetAPI**: A native macOS app designed to replace bloated API tools like Postman.
   - **TinyShield**: A modern macOS app that gives you complete control over your Mac’s network connections.
